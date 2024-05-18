@@ -1,0 +1,24 @@
+[[[Models and Animations Pack for Unity.]]]
+
+---------------------------MODEL-FINISHED-----------------------------
+Remember to apply transformations: CTRL + A
+
+---------------------------EXPORTING----------------------------------
+MAIN:
+Object Type: Mesh
+
+TRANSFORM:
+-Selected Selected Objects.
+-Change Scale to Z Forward.
+-Apply Scale on FBX All. [Solve Unity Scale problem != (1,1,1)]
+
+GEOMETRY:
+-Unselect Apply Modifiers, if necessary.
+
+ARMATURE:
+-Unselect Add Leaf Bones.
+
+ANIMATION:
+Deactivate or else.
+-Unselect NLA Strips.
+-Unselect Force Start/End Keying.
