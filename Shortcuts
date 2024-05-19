@@ -1,0 +1,26 @@
+E - Extrude
+S - Scale
+R - Rotate
+I - Inset (I individual faces | B boundary on/off)
+G - Move
+GG - Move along Edge
+A - Select All
+AA - Deselect All
+Ctrl+R - Loop Cut
+Ctrl+B - Bevel Edge(s)
+Ctrl+Shift+B - Bevel Vertex
+Alt+E - Extrude Along Face Normals
+Ctrl+RMB - Extrude Face
+Tab - Toggle Edit Mode
+1,2,3 - Vertex Mode, Edge Mode, Face Mode
+Alt+LMB on edge in Face Mode - Loop Select
+Alt+LMB on edge in Edge Mode - Loop Select
+Alt+Ctrl+LMB on edge in Edge Mode - Ring Select
+L- Select Linked
+B - Box Select
+Ctrl+NumpadPlus/Minus - Grow/Shrink Selection
+0 - Toggle Proportional Editing
+Alt+0 - Toggle Connected Proportional Editing
+Alt+Z - Toggle X-Ray View
+
+F - Create a new face between more vertex
