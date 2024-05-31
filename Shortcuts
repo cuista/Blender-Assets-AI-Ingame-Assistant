@@ -27,3 +27,6 @@ F - Create a new face/edge/vertex between selections
 X - Delete
 Shift+D - Duplicate
 [AutoMerge + SplitEdgesFaces] - Merge close geometry
+Ctrl+P - Parent Menu, setta Mesh figlia Empty
+
+[USEFULT OPTIONS IN EDIT MODE, UP-RIGHT]
