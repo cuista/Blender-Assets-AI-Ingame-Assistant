@@ -28,5 +28,6 @@ X - Delete
 Shift+D - Duplicate
 [AutoMerge + SplitEdgesFaces] - Merge close geometry
 Ctrl+P - Parent Menu, setta Mesh figlia Empty
+Ctrl+J - Join 2 or more models in one
 
 [USEFULT OPTIONS IN EDIT MODE, UP-RIGHT]
